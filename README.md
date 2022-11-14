@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oscar-gg
-- 👀 I’m interested in artificial intelligence and cybersecurity
+- 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning competitive programming.
 - 💞️ I’m looking to collaborate on java, python, or c++ projects.
 
