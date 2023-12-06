@@ -30,18 +30,14 @@
 
 
 ## GitHub Stats
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oscar-gg&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=6"/></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Oscar-gg&show_icons=true&locale=en&theme=onedark"  width="410" /></p>
-</div>
 
-<p>&nbsp;</p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oscar-gg&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Oscar-gg&show_icons=true&locale=en&theme=onedark"  width="410" />
+</p>
 
-<!--
 ### Leetcode
-<br>
+
 <div>
 <img height=150 width=auto src="https://leetcode-stats-six.vercel.app/?username=Oscar_gg&theme=dark" alt="Leetcode stats" />
 </div>
-
--->
