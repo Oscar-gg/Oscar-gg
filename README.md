@@ -39,5 +39,5 @@
 ### Leetcode
 
 <div>
-<img height=150 width=auto src="https://leetcode-stats-six.vercel.app/?username=Oscar_gg&theme=dark" alt="Leetcode stats" />
+  [![Oscar's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Oscar_gg&theme=Dark)](https://leetcode.com/u/Oscar_gg/)
 </div>
