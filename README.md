@@ -36,8 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Oscar-gg&show_icons=true&locale=en&theme=onedark"  width="410" />
 </p>
 
-### Leetcode
+## Leetcode
 
-<div>
-  [![Oscar's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Oscar_gg&theme=Dark)](https://leetcode.com/u/Oscar_gg/)
-</div>
+[![Oscar's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Oscar_gg&theme=Dark)](https://leetcode.com/u/Oscar_gg/)
+
