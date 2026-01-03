@@ -28,14 +28,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-## GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oscar-gg&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=6"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Oscar-gg&show_icons=true&locale=en&theme=onedark"  width="410" />
-</p>
-
 ## Leetcode
 
 [![Oscar's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Oscar_gg&theme=Dark)](https://leetcode.com/u/Oscar_gg/)
