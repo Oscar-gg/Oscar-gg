@@ -7,8 +7,6 @@
 - 📚 I study C.S. at Tecnológico de Monterrey
 - 🏀 I like playing basketball and hiking
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Oscar-gg&theme=onedark&margin-w=10&rank=-C,-?)
-
 ## Contact
 <a href="https://www.linkedin.com/in/oscar-arreola04/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/oscar_arreola04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -27,6 +25,14 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# Github Stats
+![trophy](https://github-profile-trophy-delta-ten.vercel.app/?username=Oscar-gg&theme=onedark&margin-w=10&rank=-C,-?)
+
+<p float="center">
+  <img height=150 width=auto src="https://github-readme-stats-vert-theta.vercel.app/api/top-langs/?username=Oscar-gg&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,c%23" alt="Language stats"/>  
+  <img height=150 width=auto src="https://github-readme-stats-vert-theta.vercel.app/api?username=Oscar-gg&theme=tokyonight&count_private=true&hide_border=true" alt="Github stats" />
+</p>
 
 ## Leetcode
 
